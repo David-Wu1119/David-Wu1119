@@ -14,7 +14,7 @@ I am a computer science major and mathematics minor at NYU, expecting to graduat
 
 - [AgentCI Guard](https://github.com/David-Wu1119/agentci-guard): an experimental TypeScript static analyzer for GitHub Actions workflows that run AI agents. It models workflow permissions and reachability and emits diagnostics with explicit analysis limits. [Release v0.6.2](https://github.com/David-Wu1119/agentci-guard/releases/tag/v0.6.2) · [Demo](https://github.com/David-Wu1119/agentci-guard/blob/main/docs/demo.gif).
 - [TraceBench](https://github.com/David-Wu1119/tracebench): workload and measurement infrastructure for studying ML serving behavior, with reproduction instructions and scoped experimental evidence in the repository.
-- [CloudTune](https://cloudtune.org/): my private ML-systems research testbed for job orchestration, failure recovery, and verifiable execution receipts. The code is private; it is an experimental system.
+- [CloudTune](https://cloudtune.org/): an early ML infrastructure project for supervised fine-tuning on customer-operated infrastructure, failure recovery, and portable signed execution receipts. The public research preview includes an illustrative receipt-verification demo; the application and source remain private.
 
 ## Research interests
 
