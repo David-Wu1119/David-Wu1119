@@ -1,6 +1,6 @@
 # Yanze (David) Wu
 
-I fix correctness bugs in ML infrastructure: inference servers, training frameworks, and benchmark harnesses. I study computer science at NYU, and I am looking for 2027 new-grad roles in ML infrastructure and backend engineering.
+I fix correctness bugs in ML infrastructure: inference servers, training frameworks, and benchmark harnesses. I study computer science at NYU and am working toward a mathematics minor (declaration in progress). I am looking for 2027 new-grad roles in ML infrastructure and backend engineering.
 
 ## Merged upstream work
 
